@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fredr\\source\\repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {}
+    "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fredr\\source\\repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {
+    "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\source\\repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
+        "projectUniqueName": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
         "projectName": "Entiteter",
-        "projectPath": "C:\\Users\\fredr\\source\\repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
+        "projectPath": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
         "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\source\\repos\\Danney96\\Labb1Expedition\\Entiteter\\obj\\",
+        "outputPath": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
