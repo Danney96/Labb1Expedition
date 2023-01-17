@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {}
+    "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {
+    "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Entiteter\\Entiteter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
+        "projectUniqueName": "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
         "projectName": "Entiteter",
-        "projectPath": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
-        "packagesPath": "C:\\Users\\fredr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fredr\\Source\\Repos\\Danney96\\Labb1Expedition\\Entiteter\\obj\\",
+        "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Entiteter\\Entiteter.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Entiteter\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\fredr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,11 +45,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
