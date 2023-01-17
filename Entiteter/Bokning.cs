@@ -24,7 +24,7 @@ namespace Entiteter
             BokningsNr = bokningsNr++;
             Expidit = expidit;
             Medlem = medlem;
-            BokadeBöcker = bokadeBöcker;
+            BokadeBöcker = new List<Bok>();
             UtTid = utTid;
             FaltiskUtTid = faktiskUtTid;
             ÅterTid = återTid;
