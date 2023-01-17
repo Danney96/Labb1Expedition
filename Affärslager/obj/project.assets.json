@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Datalager/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entiteter": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datalager.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datalager.dll": {}
+        }
+      },
+      "Entiteter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entiteter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entiteter.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Datalager/1.0.0": {
+      "type": "project",
+      "path": "../Datalager/Datalager.csproj",
+      "msbuildProject": "../Datalager/Datalager.csproj"
+    },
+    "Entiteter/1.0.0": {
+      "type": "project",
+      "path": "../Entiteter/Entiteter.csproj",
+      "msbuildProject": "../Entiteter/Entiteter.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Datalager >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\DANIEL\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Datalager\\Datalager.csproj": {
+              "projectPath": "C:\\Users\\DANIEL\\source\\repos\\Labb1Expedition\\Datalager\\Datalager.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

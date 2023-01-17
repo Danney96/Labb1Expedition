@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Affärslager",
+    "\\Datalager",
+    "\\Entiteter",
     "\\Expeditionen"
   ],
-  "SelectedNode": "\\Expeditionen",
   "PreviewInSolutionExplorer": false
 }
