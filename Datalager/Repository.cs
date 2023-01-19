@@ -75,5 +75,10 @@ namespace Datalager
         // NOTE: This is very bad if you use multiple threads.
         private static IList<T> table;
     }
+
+
+
+
+
 }
 

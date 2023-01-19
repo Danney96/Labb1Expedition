@@ -1,0 +1,17 @@
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.csproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.AssemblyInfoInputs.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.AssemblyInfo.cs
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Affärslager.deps.json
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Affärslager.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Affärslager.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Datalager.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Entiteter.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Datalager.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\bin\Debug\net6.0\Entiteter.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.csproj.CopyComplete
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\refint\Affärslager.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\Affärslager.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Affärslager\obj\Debug\net6.0\ref\Affärslager.dll

@@ -1,0 +1,12 @@
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\bin\Debug\net6.0\Entiteter.deps.json
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\bin\Debug\net6.0\Entiteter.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\bin\Debug\net6.0\Entiteter.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.csproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.AssemblyInfoInputs.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.AssemblyInfo.cs
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\refint\Entiteter.dll
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\Entiteter.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Entiteter\obj\Debug\net6.0\ref\Entiteter.dll

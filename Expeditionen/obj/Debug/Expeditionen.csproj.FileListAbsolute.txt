@@ -1,0 +1,8 @@
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.csproj.AssemblyReference.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\bin\Debug\Expeditionen.exe.config
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\bin\Debug\Expeditionen.exe
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\bin\Debug\Expeditionen.pdb
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.exe
+C:\Users\DANIEL\source\repos\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.pdb
