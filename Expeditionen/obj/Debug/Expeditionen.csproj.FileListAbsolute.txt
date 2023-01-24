@@ -1,0 +1,2 @@
+C:\Users\fredr\source\repos\Danney96\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.csproj.AssemblyReference.cache
+C:\Users\fredr\source\repos\Danney96\Labb1Expedition\Expeditionen\obj\Debug\Expeditionen.csproj.CoreCompileInputs.cache
